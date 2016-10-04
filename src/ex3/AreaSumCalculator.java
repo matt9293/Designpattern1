@@ -8,6 +8,6 @@ public class AreaSumCalculator extends AreaCalculator {
 
 	public void cal(Shape curShape) {
 		areasum += curShape.area();
-	}// °è»ê¸¸ ¿­½ÉÈ÷ ÇÔ
+	}//ê³„ì‚°ë§Œ í•´ë¼
 
 }
